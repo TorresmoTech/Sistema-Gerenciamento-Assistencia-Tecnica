@@ -20,21 +20,6 @@ Além do gerenciamento interno, o sistema permite que o cliente acompanhe o anda
 
 ---
 
-## 🚀 Funcionalidades
-
-- Cadastro e gerenciamento de clientes
-- Cadastro e gerenciamento de técnicos
-- Cadastro e gerenciamento de administradores
-- Login com autenticação de usuários
-- Controle de permissões por tipo de usuário
-- Criação, edição e exclusão de Ordens de Serviço
-- Consulta do status da OS pelo cliente
-- Geração de relatórios em PDF
-- Gerenciamento de projetos vinculados às Ordens de Serviço
-- Interface responsiva e intuitiva
-
----
-
 ## 🛠 Tecnologias Utilizadas
 
 - PHP
@@ -88,22 +73,6 @@ Além do gerenciamento interno, o sistema permite que o cliente acompanhe o anda
 ✔️ Banco de Dados MySQL
 
 ✔️ Interface Web Responsiva
-
----
-
-## 📸 Demonstração
-
-Adicione aqui algumas imagens do sistema.
-
-Exemplos:
-
-- Tela de Login
-- Painel Administrativo
-- Cadastro de Cliente
-- Cadastro de Técnico
-- Gerenciamento de Ordens de Serviço
-- Consulta de Status da OS
-- Relatórios em PDF
 
 ---
 
